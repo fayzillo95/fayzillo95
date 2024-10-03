@@ -1,6 +1,6 @@
 - 👋
 - Hi,
-- I’m @fayzillo95
+- I’m Fayzillo Ummatov
 - 📫 ovovovlululutvata@gmail.com.
 
 <!---
