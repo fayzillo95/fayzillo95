@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1763486/209360850-305e128b-08e4-4844-8fa8-620faaf81f5a.png" />
+  <img src="https://user-images.githubusercontent.com/1763486/209360850-305e128b-08e4-4844-8fa8-620faaf81f5a.png](https://github.com/ToolJet/ToolJet" />
 </p>
 
 <p align="center">
