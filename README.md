@@ -11,8 +11,3 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://blog.intception.me/assets/img/00.7943d22f.jpg" />
 </p>
-
-<p align="center">
-  A monorepo containing packages to develop Shopify application using NestJS.<br />
-</p>
-<br />
